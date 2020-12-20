@@ -342,8 +342,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 57015412196824333871ee711367afae, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RightHandTransform: {fileID: 7863281936454854642}
-  LeftHandTransform: {fileID: 3911486485941144822}
+  HeadTransform: {fileID: 7853186916845993571}
+  RightHandTransform: {fileID: 9091638112677422491}
+  LeftHandTransform: {fileID: 4134087146416393728}
 --- !u!1 &948610042996079168
 GameObject:
   m_ObjectHideFlags: 0
